@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="08c2c0cc-2209-441c-8882-39ad4e27f196" name="aliyun" url="http://114.215.85.18">
+        <fileTransfer host="114.215.85.18" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" passphrase="dfd2dfc0dfcedf9bdf9adf98df93df99df92df9edf9ddf9fdf9cdfea" username="root" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
